@@ -26,7 +26,7 @@ let ShowcaseCard = (props) => {
                     <div className={css.ratingBox}> {rating} <img className={css.star} src={star} alt="gorwing arrow" /></div>
                 </div>
                 <div className={css.tagBox}>
-                    <div className={css.tagTitle}>South Indian</div>
+                    <div className={css.tagTitle}>North Indian</div>
                     <div className={css.tagTxt}>₹<span className={css.type}>350</span> for <span className={css.num}>One</span></div>
                 </div>
             </div>

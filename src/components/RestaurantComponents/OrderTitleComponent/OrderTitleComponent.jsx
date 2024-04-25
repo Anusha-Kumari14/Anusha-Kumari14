@@ -10,7 +10,7 @@ const OrderTitleComponent = () => {
   return <div className={css.outerDiv}>
     <div className={css.innerDiv}>
         <div className={css.left}>
-            <div className={css.title}>Krupa Mess & Tiffins</div>
+            <div className={css.title}>Wraps and Fries</div>
             <div className={css.specials}>South Indian, Chinese, North Indian, Sichuan, Pizza</div>
             <div className={css.address}>Abids, Hyderabad</div>
             <div className={css.timings}>

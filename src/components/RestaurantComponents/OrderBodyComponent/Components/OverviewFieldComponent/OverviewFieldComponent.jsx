@@ -28,7 +28,7 @@ const OverviewFieldComponent = () => {
     {
       id: 1,
       imgSrc: happyHoursImg,
-      name: "Paradise Biryani",
+      name: "Andhra Biryani",
       ratingsDining: 4.2,
       ratingsDelivery: 4.6,
       address: "Kukatpally, Hyd",
@@ -37,7 +37,7 @@ const OverviewFieldComponent = () => {
     {
       id: 2,
       imgSrc: happyHoursImg,
-      name: "Paradise Biryani",
+      name: "Andhra Biryani",
       ratingsDining: 4.2,
       ratingsDelivery: 4.6,
       address: "Kukatpally, Hyd",

@@ -3,7 +3,7 @@ import CollapsableCard from '../../../utils/Cards/CollapsableCard/CollapsableCar
 import css from './ExploreOptionsNearMe.module.css';
 
 let ExploreOptionsNearMe = () => {
-    let chain = ['hyd', 'cheenai', 'vizag', 'hyd', 'cheenai', 'vizag', 'hyd', 'cheenai', 'vizag', 'hyd', 'cheenai', 'vizag', 'hyd', 'cheenai', 'vizag', 'hyd', 'cheenai', 'vizag', 'hyd', 'cheenai', 'vizag', 'hyd', 'cheenai', 'vizag', 'hyd', 'cheenai', 'vizag']
+    let chain = ['Vellore', 'chennai', 'vizag', 'Vellore', 'chennai', 'vizag', 'Vellore', 'chennai', 'vizag', 'Vellore', 'chennai', 'vizag', 'Vellore', 'chennai', 'vizag', 'Vellore', 'chennai', 'vizag', 'Vellore', 'chennai', 'vizag', 'Vellore', 'chennai', 'vizag', 'Vellore', 'chennai', 'vizag']
     return <div className={css.outerDiv}>
         <div className={css.innerDiv}>
             <div className={css.title}>Explore options near me</div>

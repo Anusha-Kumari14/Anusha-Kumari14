@@ -53,7 +53,7 @@ const TestPage = () => {
 
     let data2 = {
       imgSrc: profilepic,
-      title: "Paradise Biryani",
+      title: "Andhra Biryani",
       address: "Kukatpally, Hyd",
       reviews: 0,
       followers: 0,

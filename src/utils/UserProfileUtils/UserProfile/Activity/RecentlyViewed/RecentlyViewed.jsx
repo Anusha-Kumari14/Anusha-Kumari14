@@ -13,7 +13,7 @@ const RecentlyViewed = ({ hashId }) => {
     {
       id: 1,
       imgSrc: happyHoursImg,
-      name: "Paradise Biryani",
+      name: "Andhra Biryani",
       ratingsDining: 4.2,
       ratingsDelivery: 4.6,
       address: "Kukatpally, Hyd",
@@ -22,7 +22,7 @@ const RecentlyViewed = ({ hashId }) => {
     {
       id: 2,
       imgSrc: happyHoursImg,
-      name: "Paradise Biryani",
+      name: "Andhra Biryani",
       ratingsDining: 4.2,
       ratingsDelivery: 4.6,
       address: "Kukatpally, Hyd",
@@ -31,7 +31,7 @@ const RecentlyViewed = ({ hashId }) => {
     {
       id: 3,
       imgSrc: happyHoursImg,
-      name: "Paradise Biryani",
+      name: "Andhra Biryani",
       ratingsDining: 4.2,
       ratingsDelivery: 4.6,
       address: "Kukatpally, Hyd",
@@ -40,7 +40,7 @@ const RecentlyViewed = ({ hashId }) => {
     {
       id: 4,
       imgSrc: happyHoursImg,
-      name: "Paradise Biryani",
+      name: "Andhra Biryani",
       ratingsDining: 4.2,
       ratingsDelivery: 4.6,
       address: "Kukatpally, Hyd",
@@ -49,7 +49,7 @@ const RecentlyViewed = ({ hashId }) => {
     {
       id: 5,
       imgSrc: happyHoursImg,
-      name: "Paradise Biryani",
+      name: "Andhra Biryani",
       ratingsDining: 4.2,
       ratingsDelivery: 4.6,
       address: "Kukatpally, Hyd",
@@ -58,7 +58,7 @@ const RecentlyViewed = ({ hashId }) => {
     {
       id: 6,
       imgSrc: happyHoursImg,
-      name: "Paradise Biryani",
+      name: "Andhra Biryani",
       ratingsDining: 4.2,
       ratingsDelivery: 4.6,
       address: "Kukatpally, Hyd",
@@ -67,7 +67,7 @@ const RecentlyViewed = ({ hashId }) => {
     {
       id: 7,
       imgSrc: happyHoursImg,
-      name: "Paradise Biryani",
+      name: "Andhra Biryani",
       ratingsDining: 4.2,
       ratingsDelivery: 4.6,
       address: "Kukatpally, Hyd",
@@ -76,7 +76,7 @@ const RecentlyViewed = ({ hashId }) => {
     {
       id: 8,
       imgSrc: happyHoursImg,
-      name: "Paradise Biryani",
+      name: "Andhra Biryani",
       ratingsDining: 4.2,
       ratingsDelivery: 4.6,
       address: "Kukatpally, Hyd",
@@ -85,7 +85,7 @@ const RecentlyViewed = ({ hashId }) => {
     {
       id: 9,
       imgSrc: happyHoursImg,
-      name: "Paradise Biryani",
+      name: "Andhra Biryani",
       ratingsDining: 4.2,
       ratingsDelivery: 4.6,
       address: "Kukatpally, Hyd",
@@ -94,7 +94,7 @@ const RecentlyViewed = ({ hashId }) => {
     {
       id: 10,
       imgSrc: happyHoursImg,
-      name: "Paradise Biryani",
+      name: "Andhra Biryani",
       ratingsDining: 4.2,
       ratingsDelivery: 4.6,
       address: "Kukatpally, Hyd",
@@ -103,7 +103,7 @@ const RecentlyViewed = ({ hashId }) => {
     {
       id: 11,
       imgSrc: happyHoursImg,
-      name: "Paradise Biryani",
+      name: "Andhra Biryani",
       ratingsDining: 4.2,
       ratingsDelivery: 4.6,
       address: "Kukatpally, Hyd",
@@ -112,7 +112,7 @@ const RecentlyViewed = ({ hashId }) => {
     {
       id: 12,
       imgSrc: happyHoursImg,
-      name: "Paradise Biryani",
+      name: "Andhra Biryani",
       ratingsDining: 4.2,
       ratingsDelivery: 4.6,
       address: "Kukatpally, Hyd",
@@ -121,7 +121,7 @@ const RecentlyViewed = ({ hashId }) => {
     {
       id: 13,
       imgSrc: happyHoursImg,
-      name: "Paradise Biryani",
+      name: "Andhra Biryani",
       ratingsDining: 4.2,
       ratingsDelivery: 4.6,
       address: "Kukatpally, Hyd",
@@ -130,7 +130,7 @@ const RecentlyViewed = ({ hashId }) => {
     {
       id: 14,
       imgSrc: happyHoursImg,
-      name: "Paradise Biryani",
+      name: "Andhra Biryani",
       ratingsDining: 4.2,
       ratingsDelivery: 4.6,
       address: "Kukatpally, Hyd",

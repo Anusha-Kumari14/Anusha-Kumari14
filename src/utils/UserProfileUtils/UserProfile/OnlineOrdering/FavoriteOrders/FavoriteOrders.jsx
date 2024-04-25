@@ -18,7 +18,7 @@ const FavoriteOrders = () => {
         {
             id:1,
             imgSrc: orderonlineImg,
-            name:"Paradise Biryani",
+            name:"Andhra Biryani",
             address:"Kukatpally, Hyd",
             orderNum:"211",
             items:[{

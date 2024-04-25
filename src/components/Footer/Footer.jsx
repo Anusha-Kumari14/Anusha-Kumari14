@@ -26,7 +26,7 @@ let Footer = () => {
             </div>
             <div className={footerCss.sec2}>
                 <div className={[footerCss.box1, footerCss.box].join(' ')}>
-                    <div className={footerCss.boxTtl}>ABOUT TOMATO</div>
+                    <div className={footerCss.boxTtl}>ABOUT Tomato</div>
                     <a href="" className={footerCss.boxOpt}>Who We Are</a>
                     <a href="" className={footerCss.boxOpt}>Blog</a>
                     <a href="" className={footerCss.boxOpt}>Work With Us</a>

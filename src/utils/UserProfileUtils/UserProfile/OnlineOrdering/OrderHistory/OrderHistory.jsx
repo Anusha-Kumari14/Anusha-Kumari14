@@ -18,7 +18,7 @@ const OrderHistory = ({hashId}) => {
         {
             id:1,
             imgSrc: orderonlineImg,
-            name:"Paradise Biryani",
+            name:"Andhra Biryani",
             address:"Kukatpally, Hyd",
             orderNum:"211",
             items:[{
@@ -52,7 +52,7 @@ const OrderHistory = ({hashId}) => {
         {
           id:2,
           imgSrc: orderonlineImg,
-          name:"Paradise Biryani",
+          name:"Andhra Biryani",
           address:"Kukatpally, Hyd",
           orderNum:"211",
           items:[{
@@ -86,7 +86,7 @@ const OrderHistory = ({hashId}) => {
       {
         id:3,
         imgSrc: orderonlineImg,
-        name:"Paradise Biryani",
+        name:"Andhra Biryani",
         address:"Kukatpally, Hyd",
         orderNum:"211",
         items:[{

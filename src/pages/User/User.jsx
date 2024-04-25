@@ -30,15 +30,15 @@ const User = () => {
     ];
 
     let data3 = [
-        {userId: 123, imgSrc:userImg, userName: "Koushil Mankali", reviews: 200, followers: "123"},
-        {userId: 123, imgSrc:userImg, userName: "Koushil Mankali", reviews: 200, followers: "123"},
-        {userId: 123, imgSrc:userImg, userName: "Koushil Mankali", reviews: 200, followers: "123"},
-        {userId: 123, imgSrc:userImg, userName: "Koushil Mankali", reviews: 200, followers: "123"}
+        {userId: 123, imgSrc:userImg, userName: "Ayan", reviews: 200, followers: "123"},
+        {userId: 123, imgSrc:userImg, userName: "Ayan", reviews: 200, followers: "123"},
+        {userId: 123, imgSrc:userImg, userName: "Ayan", reviews: 200, followers: "123"},
+        {userId: 123, imgSrc:userImg, userName: "Ayan", reviews: 200, followers: "123"}
     ]
 
     let data4 = {
       profilePic: userImg,
-      userName: "Koushil",
+      userName: "Ayan",
       reviews: 1,
       photos: 1,
       followers: 200
@@ -56,7 +56,7 @@ const User = () => {
           <LeftSideCardPanel name='ONLINE ORDERING' data={data2} />
           <LeftSideCardPanel name='TABLE BOOKING' data={data5} />
           <SuggestedFollowCard name='SUGGESTED FOODIES TO FOLLOW' data={data3} />
-          <ProfileWidget name='ZOMATO PROFILE WIDGET' tag="Showcase your Zomato profile on your blog." data={data4} />
+          <ProfileWidget name='zomato PROFILE WIDGET' tag="Showcase your zomato profile on your blog." data={data4} />
         </div>
         <div className={css.rightBox}>
           <UserProfileRightsideBar />

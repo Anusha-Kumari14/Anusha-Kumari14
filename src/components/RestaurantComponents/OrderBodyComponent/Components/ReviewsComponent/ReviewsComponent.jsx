@@ -15,7 +15,7 @@ const ReviewsComponent = () => {
   let data = [
       {
         imgSrc: profilepic,
-        title: "Paradise Biryani",
+        title: "A Biryani",
         address: "Kukatpally, Hyd",
         reviews: 0,
         followers: 0,
@@ -29,7 +29,7 @@ const ReviewsComponent = () => {
     },
     {
       imgSrc: profilepic,
-      title: "Paradise Biryani",
+      title: "A Biryani",
       address: "Kukatpally, Hyd",
       reviews: 0,
       followers: 0,

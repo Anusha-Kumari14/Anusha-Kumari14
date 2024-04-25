@@ -26,7 +26,7 @@ let UserProfileRightsideBar = () => {
 
     let data = [{
         imgSrc: ImgSrc,
-        title: "Paradise Biryani",
+        title: "Andhra Biryani",
         address: "Kukatpally, Hyd",
         stars: 5,
         days: 10,
@@ -38,7 +38,7 @@ let UserProfileRightsideBar = () => {
     },
     {
         imgSrc: ImgSrc,
-        title: "Paradise Biryani",
+        title: "Andhra Biryani",
         address: "Kukatpally, Hyd",
         stars: 5,
         days: 10,
@@ -49,7 +49,7 @@ let UserProfileRightsideBar = () => {
         userId: userId,
     },{
         imgSrc: ImgSrc,
-        title: "Paradise Biryani",
+        title: "Andhra Biryani",
         address: "Kukatpally, Hyd",
         stars: 5,
         days: 10,
@@ -60,7 +60,7 @@ let UserProfileRightsideBar = () => {
         userId: userId,
     },{
         imgSrc: ImgSrc,
-        title: "Paradise Biryani",
+        title: "Andhra Biryani",
         address: "Kukatpally, Hyd",
         stars: 5,
         days: 10,
@@ -71,7 +71,7 @@ let UserProfileRightsideBar = () => {
         userId: userId,
     },{
         imgSrc: ImgSrc,
-        title: "Paradise Biryani",
+        title: "Andhra Biryani",
         address: "Kukatpally, Hyd",
         stars: 5,
         days: 10,
@@ -82,7 +82,7 @@ let UserProfileRightsideBar = () => {
         userId: userId,
     },{
         imgSrc: ImgSrc,
-        title: "Paradise Biryani",
+        title: "Andhra Biryani",
         address: "Kukatpally, Hyd",
         stars: 5,
         days: 10,
@@ -93,7 +93,7 @@ let UserProfileRightsideBar = () => {
         userId: userId,
     },{
         imgSrc: ImgSrc,
-        title: "Paradise Biryani",
+        title: "Andhra Biryani",
         address: "Kukatpally, Hyd",
         stars: 5,
         days: 10,
@@ -104,7 +104,7 @@ let UserProfileRightsideBar = () => {
         userId: userId,
     },{
         imgSrc: ImgSrc,
-        title: "Paradise Biryani",
+        title: "Andhra Biryani",
         address: "Kukatpally, Hyd",
         stars: 5,
         days: 10,

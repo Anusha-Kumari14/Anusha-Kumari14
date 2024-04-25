@@ -184,7 +184,7 @@ let ShowCase = () => {
             proExtraB: false,
             off: "30",
             proExtra: "40",
-            name: "Paradise Hotel",
+            name: "LIMRA",
             rating: '3.6',
             imgSrc: biryaniSCImg
         },
@@ -195,7 +195,7 @@ let ShowCase = () => {
             proExtraB: false,
             off: "30",
             proExtra: "40",
-            name: "Mangal Hotel",
+            name: "WRAPS N FRIES",
             rating: '2.6',
             imgSrc: biryaniSCImg2
         },
@@ -206,7 +206,7 @@ let ShowCase = () => {
             proExtraB: true,
             off: "30",
             proExtra: "40",
-            name: "Chapathi Hotel",
+            name: "HOT STONE",
             rating: '4.6',
             imgSrc: chapathiImg
         },
@@ -217,7 +217,7 @@ let ShowCase = () => {
             proExtraB: false,
             off: "30",
             proExtra: "40",
-            name: "Fish Mandi Hotel",
+            name: "7TH HEAVEN",
             rating: '4.9',
             imgSrc: fishImg
         },
@@ -228,7 +228,7 @@ let ShowCase = () => {
             proExtraB: true,
             off: "30",
             proExtra: "40",
-            name: "MangalCaptain Hotel",
+            name: "FROZEN BOTTLE    ",
             rating: '4.6',
             imgSrc: icecreamImg
         },
@@ -239,8 +239,8 @@ let ShowCase = () => {
             proExtraB: false,
             off: "30",
             proExtra: "40",
-            name: "KFCS Hotel",
-            rating: '2.8',
+            name: "KFC",
+            rating: '4.8',
             imgSrc: kfcSCImg
         },
         {
@@ -250,7 +250,7 @@ let ShowCase = () => {
             proExtraB: false,
             off: "30",
             proExtra: "40",
-            name: "Pizza Hotel",
+            name: "DOMINOS",
             rating: '3.2',
             imgSrc: pizzaSCImg
         },
@@ -261,7 +261,7 @@ let ShowCase = () => {
             proExtraB: false,
             off: "30",
             proExtra: "40",
-            name: "Fish Mandi Hotel",
+            name: "TARAMA",
             rating: '4.6',
             imgSrc: fishImg
         },
@@ -272,7 +272,7 @@ let ShowCase = () => {
             proExtraB: true,
             off: "30",
             proExtra: "40",
-            name: "MangalCaptain Hotel",
+            name: "ANDRA SPICE",
             rating: '2.6',
             imgSrc: icecreamImg
         },
@@ -286,11 +286,11 @@ let ShowCase = () => {
                 /
                 India
                 /
-                Hyderabad
+                VELLORE
                 /
-                Hyderabad City
+                KATPADI
                 /
-                Indira Nagar
+                TIRUVALAM
             </div>
         </div>
         <div className={css.showCaseDiv}>

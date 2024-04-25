@@ -51,7 +51,7 @@ let OrderDetails = ({setViewDet}) => {
                             <img className={css.img} src={data.imgSrc} alt="picture" />
                         </div>
                         <div className={css.txtContent}>
-                            <div className={css.ttl}>Paradise Biryani</div>
+                            <div className={css.ttl}>Andhra Biryani</div>
                             <div className={css.address}>kukatpall, Hyd</div>
                         </div>
                     </div>
